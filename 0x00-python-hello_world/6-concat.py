@@ -1,4 +1,4 @@
- #!/usr/bin/pvthon3
+#!/usr/bin/pvthon3
 str1 = "Holberton"
 str2 = "School"
 str1 += " " + str2
